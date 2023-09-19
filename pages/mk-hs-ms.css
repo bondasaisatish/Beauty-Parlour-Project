@@ -1,0 +1,22 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body
+{
+    background-color: black;
+    color: white;
+}
+.head
+{
+    text-align: center;
+    margin-top: 40px;
+}
+.btn1
+{
+    background-color: aqua;
+    
+}
+
